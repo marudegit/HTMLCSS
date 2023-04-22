@@ -7,6 +7,7 @@
 .list {
   width: 960px;
   padding: 50px 0;
+  margin: 0 auto;
 }
 
 .list-box:nth-child(odd) {
